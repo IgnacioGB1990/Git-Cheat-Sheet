@@ -17,7 +17,7 @@
 <a name="track_and_upload"></a>
 ## 1. Initizalize repo from existing folder
 
-Initialize git in your computer´s folder:
+Initialize an existing directory as a Git repository:
 ~~~
 git init
 ~~~
@@ -60,12 +60,12 @@ Add file to staging area and commit :
 git commit -am "Two in one command"
 ~~~
 
-Push changes to Github
+Transmit local branch commits to the remote repository branch , it will push changes to Github:
 ~~~
 git push
 ~~~
 
-Pull any changes done remotely and update them into your local directory:
+Fetch and merge any commits from the tracking remote branch, it will pull any changes done remotely and update them into your local directory:
 
 ~~~
 git pull
@@ -73,6 +73,21 @@ git pull
 
 <a name="branches"></a>
 #### Branches
+
+Creates branch:
+~~~
+git branch "Name_of_new_branch"
+~~~
+
+See a list of local branches:
+~~~
+git branch
+~~~
+
+See a list of local and remote branches:
+~~~
+git branch -a
+~~~
 
 Creates and moves to branch:
 
@@ -91,5 +106,11 @@ See existing branches:
 git branch
 ~~~
 
+Push changes of branch to Github (first time):
+~~~
+git push -u "branch_name"
+~~~
+
+Push changes of branch to Github (first time):
 
 <img src="https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg" width="400" height="300">
