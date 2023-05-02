@@ -33,9 +33,9 @@ git branch -m master main
 
 
 
-
-### Basic Git Commands
 <a name="basic_commands"></a>
+### Basic Git Commands
+
 <img src="https://static.packt-cdn.com/products/9781782168454/graphics/8454OS_01_4.jpg" width="600" height="400">
 
 Check status of files:
