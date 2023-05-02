@@ -111,6 +111,21 @@ Push changes of branch to Github (first time):
 git push -u "branch_name"
 ~~~
 
-Push changes of branch to Github (first time):
+Delte a branch locally:
+~~~
+git branch -d "branch_name"
+~~~
+
+Delete a branch remotely:
+~~~
+git push origin --delete `branch_name
+~~~
+
+Merge branch into your current branch:
+~~~
+git merge "branch_name"
+~~~
+
+
 
 <img src="https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg" width="400" height="300">
