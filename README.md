@@ -1,6 +1,6 @@
 # Lost with git? Don´t worry you are not alone
 
-<a href="#carga_datos">1. Carga datos</a></dt>
+<a href="#track_and_upload">1. Track current folder with git and upload it to GitHub</a></dt>
 
 <img src="https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg" width="400" height="300">
 
@@ -11,8 +11,21 @@
 
 
 
-<a name="carga_datos"></a>
+<a name="track_and_upload"></a>
 ## Initizalize repo from existing folder
+
+Initialize git in your computer´s folder:
+~~~
+git init
+~~~
+Set remote origin in GitHub:
+~~~
+git remote add origin <github url of created repo>
+~~~
+Modify master branch to main:
+~~~
+git branch -m master main
+~~~
 
 ### Basic Git Commands
 
