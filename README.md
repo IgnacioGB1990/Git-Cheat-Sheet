@@ -4,7 +4,8 @@
 
 <a href="#basic_commands">2. Basic commands</a>
 
-<img src="https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg" width="400" height="300">
+<a href="#branches">3. Branches</a>
+
 
 
 ### Basic git workflow
@@ -69,6 +70,7 @@ Pull any changes done remotely and update them into your local directory:
 git pull
 ~~~
 
+<a name="branches"></a>
 #### Branches
 
 Creates and moves to branch:
@@ -87,3 +89,6 @@ See existing branches:
 ~~~
 git branch
 ~~~
+
+
+<img src="https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg" width="400" height="300">
