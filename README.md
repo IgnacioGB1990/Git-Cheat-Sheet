@@ -1,18 +1,19 @@
 # Lost with git? Don´t worry you are not alone
 
-<a href="#track_and_upload">1. Track current folder with git and upload it to GitHub</a></dt>
+<a href="#track_and_upload">1. Track current folder with git and upload it to GitHub</a>
+<a href="#basic_commands">2. Basic commands</a>
 
 <img src="https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg" width="400" height="300">
 
 
 ### Basic git workflow
 
-<img src="https://static.packt-cdn.com/products/9781782168454/graphics/8454OS_01_4.jpg" width="600" height="400">
 
 
 
-<a name="track_and_upload"></a>
-## Initizalize repo from existing folder
+
+<a name="track_and_upload">## Initizalize repo from existing folder</a>
+
 
 Initialize git in your computer´s folder:
 ~~~
@@ -27,7 +28,14 @@ Modify master branch to main:
 git branch -m master main
 ~~~
 
+
+
+<a name="track_and_upload"></a>
+
+
 ### Basic Git Commands
+<a name="track_and_upload"></a>
+<img src="https://static.packt-cdn.com/products/9781782168454/graphics/8454OS_01_4.jpg" width="600" height="400">
 
 Check status of files:
 ~~~
