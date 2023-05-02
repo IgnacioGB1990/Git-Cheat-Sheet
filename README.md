@@ -1,3 +1,9 @@
+# Lost with git? Don´t worry you are not alone
+
+
+<img src="https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg" width="600" height="400">
+
+
 ### Basic git workflow
 
 <img src="https://static.packt-cdn.com/products/9781782168454/graphics/8454OS_01_4.jpg" width="600" height="400">
