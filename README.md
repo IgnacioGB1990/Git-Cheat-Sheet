@@ -1,6 +1,6 @@
 # Lost with git? Don´t worry you are not alone
 
-<a href="#track_and_upload">1. Track current folder with git and upload it to GitHub</a>
+<a href="#track_and_upload">1. Initizalize repo from existing folder</a>
 
 <a href="#basic_commands">2. Basic commands</a>
 
@@ -8,14 +8,14 @@
 
 
 
-### Basic git workflow
+
 
 
 
 
 
 <a name="track_and_upload"></a>
-## Initizalize repo from existing folder
+## 1. Initizalize repo from existing folder
 
 Initialize git in your computer´s folder:
 ~~~
