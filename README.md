@@ -9,6 +9,11 @@
 
 
 
+<a href="#lost">* Commands when lost</a>
+
+
+
+
 
 
 
@@ -40,10 +45,6 @@ git branch -m master main
 <img src="https://static.packt-cdn.com/products/9781782168454/graphics/8454OS_01_4.jpg" width="600" height="400">
 
 ### 2. Basic Git Commands before working as a team
-Check status of files:
-~~~
-git status
-~~~
 
 Add all files to staging area prior to commit:
 ~~~
@@ -132,5 +133,29 @@ git merge "branch_name"
 ~~~
 
 
+<a name="lost"></a>
+#### Commands when lost:
+Check status of files:
+~~~
+git status
+~~~
 
+Extensive list of all commits done:
+~~~
+git log
+~~~
+
+Resumed list of all commits done:
+~~~
+git log --oneline
+~~~
+
+Go back in time:
+~~~
+git reset --soft "commit_id" 
+
+git reset --mixed "commit_id"  
+
+git reset --hard "commit_id" 
+~~~
 <img src="https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg" width="400" height="300">
