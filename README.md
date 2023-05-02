@@ -1,7 +1,7 @@
 # Lost with git? Don´t worry you are not alone
 
 
-<img src="https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg" width="600" height="400">
+<img src="https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg" width="400" height="200">
 
 
 ### Basic git workflow
