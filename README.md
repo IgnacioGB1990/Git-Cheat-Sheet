@@ -12,8 +12,8 @@
 
 
 
-<a name="track_and_upload">## Initizalize repo from existing folder</a>
-
+<a name="track_and_upload"></a>
+## Initizalize repo from existing folder
 
 Initialize git in your computer´s folder:
 ~~~
@@ -34,7 +34,7 @@ git branch -m master main
 
 
 ### Basic Git Commands
-<a name="track_and_upload"></a>
+<a name="basic_commands"></a>
 <img src="https://static.packt-cdn.com/products/9781782168454/graphics/8454OS_01_4.jpg" width="600" height="400">
 
 Check status of files:
