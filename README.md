@@ -35,10 +35,11 @@ git branch -m master main
 
 
 <a name="basic_commands"></a>
-### Basic Git Commands
+### Understanding 3 stages of git
 
 <img src="https://static.packt-cdn.com/products/9781782168454/graphics/8454OS_01_4.jpg" width="600" height="400">
 
+### 2. Basic Git Commands before working as a team
 Check status of files:
 ~~~
 git status
