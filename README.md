@@ -118,7 +118,7 @@ git branch -d "branch_name"
 
 Delete a branch remotely:
 ~~~
-git push origin --delete `branch_name
+git push origin --delete `branch_name`
 ~~~
 
 Merge branch into your current branch:
