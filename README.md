@@ -50,6 +50,11 @@ Add all files to staging area prior to commit:
 git add .
 ~~~
 
+Unstage tracked files:
+~~~
+git reset
+~~~
+
 Add commit :
 ~~~
 git commit -m "First Commit"
@@ -118,7 +123,7 @@ git branch -d "branch_name"
 
 Delete a branch remotely:
 ~~~
-git push origin --delete `branch_name`
+git push origin --delete "branch_name"
 ~~~
 
 Merge branch into your current branch:
