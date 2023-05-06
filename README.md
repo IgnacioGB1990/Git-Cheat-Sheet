@@ -6,6 +6,7 @@
 
 <a href="#branches">3. Branches</a>
 
+<a href="#remove_git">3. Remove .git</a>
 
 
 
@@ -158,4 +159,16 @@ git reset --mixed "commit_id"
 
 git reset --hard "commit_id" 
 ~~~
+
+<a name="remove_git"></a>
+#### Remove .git file:
+
+Remove the .git folder using the Git command.
+
+~~~
+rm -rf .git*
+~~~
+
+
+
 <img src="https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg" width="400" height="300">
